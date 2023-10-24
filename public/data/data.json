@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "XYZ project",
+    "description": "This project is a static website. This page is about education for people who want to start studying",
+    "technologies": ["HTML", "CSS", "Bootstrap", "SASS"],
+    "github": "https://github.com/JohannRV/XYZ-Project",
+    "url": "https://xyz-project.netlify.app/"
+  },
+  {
+    "id": 2,
+    "title": "Portfolio",
+    "description": "I created my old portfolio to be able to continue developing my skills for which it was an experiment",
+    "technologies": ["HTML", "CSS", "Bootstrap", "SASS"],
+    "github": "https://github.com/JohannRV/Portfolio",
+    "url": "https://portfoliojohanrv.netlify.app/"
+  },
+  {
+    "id": 3,
+    "title": "Dashboard admin",
+    "description": "This project is for people who manage a company or a venture, this tool will help them maintain control of their expenses or investments with simple and easy to understand reports.",
+    "technologies": ["React", "TailwindCSS"],
+    "github": "https://github.com/JohannRV/dashboard-admin",
+    "url": "https://dashboard-admin-reactjs-project.netlify.app/"
+  },
+  {
+    "id": 4,
+    "title": "Buildit",
+    "description": "This project is from a construction company in which you can see different sections such as about or contact, it has a form to send an email directly to the company",
+    "technologies": ["ReactJS", "TailwindCSS"],
+    "github": "https://github.com/JohannRV/Buildit",
+    "url": "https://builditproject.netlify.app/"
+  }
+]
